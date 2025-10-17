@@ -89,5 +89,8 @@ One of these conditions aren't met:
 One of two things went wrong:
 
 - Your honeycomb doesn't have enough honey in it (it needs to be a NEAR FULL cell of honey in order to drip)
-- You angled the honeycomb wrong (see image)
+- You angled the honeycomb wrong (see image on top)
+---
+> Misc: An beehive without spaces (somehow)
 
+<img width="707" height="307" alt="image" src="https://github.com/user-attachments/assets/845c5028-3b15-4bd8-9bc2-fa6a4e4d5b20" />
