@@ -266,6 +266,14 @@ The miracle of the ocean is similar to the miracle of manifestation, as it allow
 | ------------------------ |
 | ![[FurBearingTrout.png]] |
 
+### Event Fish
+| Pumpkin Anglerfish |
+| ------------------------ |
+<img width="588" height="418" alt="image" src="https://github.com/user-attachments/assets/605f122b-8576-4b24-a311-c06e8ae5d515" />
+
+ADD MISSING EVENT FISH!!!!!
+
+
 ### Admin Fish
 So far, the only known admin fish is the Wai.ling Whale. It shares the
 same mesh as the normal whale and can\'t be stored.
@@ -278,7 +286,7 @@ Firstly, to cast, you must throw the rod forward until it casts.
 
 **(DO NOT THROW THE ROD INTO THE VOID, That's NOT HOW IT WORKS)**
 
-Next, you must wait a little bit for a bite.
+Next, you must wait a little bit for a bite. 
 
 Once you get a bite, you will know because the reel will spin.
 
@@ -290,7 +298,7 @@ Finally, to reel, move the rod up and down very fast.
 | ![[BabyBass.png]]       | This attribute<br>Halves the size<br>of the fish it is<br>applied on.                                                                        | Baby Attribute                           |
 | ----------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
 | ![[GargantuanBass.png]] | **This attribute**<br>**Doubles the size**<br>**of the fish it is**<br>**applied on.**                                                       | **Gargantuan**                           |
-| ![[Green Bass.png]]     | **This attribute** <br>**Turns the** <br>**fish it is applied**<br>**on a bright <br>green color**                                           | **Green**                                |
+| ![[Green Bass.png]]     | **This attribute** <br>**Turns the** <br>**fish it is applied**<br>**on a bright <br>green color**                                           | **Radioactive**                                |
 | ![[LengthyBass.png]]    | **This attribute** <br>**Doubles the**<br>**length of the** <br>**fish it is applied**<br>**on**                                             | **Lengthy**                              |
 | ![[StubbyBass.png]]     | **This attribute** <br>**Halves the**<br>**length of the** <br>**fish it is applied**<br>**on**                                              | **Stubby**                               |
 | ![[WideBass.png]]       | **This attribute** <br>**Doubles the**<br>**Width of the** <br>**fish it is applied**<br>**on**                                              | **Wide**                                 |
