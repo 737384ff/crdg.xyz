@@ -272,6 +272,12 @@ same mesh as the normal whale and can\'t be stored.
 When powered, it will make a loud whale sound, making all players in the
 server deaf until they rejoin the server.
 
+### Unknown Rarity Fish
+| Barracuda                |
+| ------------------------ |
+| <img width="496" height="239" alt="image" src="https://github.com/user-attachments/assets/70b561a9-88f8-409c-8d2a-c22e76df3d66" /> |
+
+
 ## [[Fishing Rod]]
 
 Firstly, to cast, you must throw the rod forward until it casts. 
